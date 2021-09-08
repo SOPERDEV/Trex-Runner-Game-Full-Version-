@@ -1,3 +1,2 @@
-# Trex-Runner-Game-Full-Version-
-Hope you liked our effort!
-Stay tuned for latest updates.
+# trex
+Offline Game where trex jumps and runs over the obstacles.
